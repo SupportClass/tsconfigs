@@ -1,6 +1,6 @@
 {
   "name": "@supportclass/tsconfig-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support Class' base TypeScript configuration.",
   "main": "tsconfig.json",
   "scripts": {
