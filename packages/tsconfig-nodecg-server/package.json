@@ -1,0 +1,25 @@
+{
+  "name": "@supportclass/tsconfig-nodecg-server",
+  "version": "1.0.0",
+  "description": "Support Class' TypeScript configuration for server-side NodeCG code.",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SupportClass/tsconfigs.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "sharable",
+    "nodecg"
+  ],
+  "author": "Support Class <info@supportclass.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SupportClass/tsconfigs/issues"
+  },
+  "homepage": "https://github.com/SupportClass/tsconfigs#readme"
+}
