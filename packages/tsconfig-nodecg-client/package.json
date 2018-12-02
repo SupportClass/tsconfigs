@@ -1,6 +1,6 @@
 {
   "name": "@supportclass/tsconfig-nodecg-client",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Support Class' TypeScript configuration for client-side NodeCG code.",
   "main": "tsconfig.json",
   "scripts": {
