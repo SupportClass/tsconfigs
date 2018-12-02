@@ -13,12 +13,5 @@
 		"declarationMap": false,
 		"sourceMap": false,
 		"inlineSourceMap": true
-	},
-	"include": [
-		"../../types/browser.d.ts",
-		"bower_components/**/*.d.ts",
-		"dashboard/**/*.ts",
-		"graphics/**/*.ts",
-		"shared/**/*.ts"
-	]
+	}
 }
