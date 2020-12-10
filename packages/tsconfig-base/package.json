@@ -2,13 +2,9 @@
   "name": "@supportclass/tsconfig-base",
   "version": "1.0.3",
   "description": "Support Class' base TypeScript configuration.",
-  "main": "tsconfig.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SupportClass/tsconfigs.git"
+    "url": "https://github.com/SupportClass/tsconfigs.git"
   },
   "keywords": [
     "typescript",
@@ -17,9 +13,5 @@
   ],
   "author": "Support Class <info@supportclass.net>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SupportClass/tsconfigs/issues"
-  },
-  "homepage": "https://github.com/SupportClass/tsconfigs#readme",
-  "gitHead": "40e33e99de75c5d8f03ee496ee33a3d2249d69e1"
+  "homepage": "https://github.com/SupportClass/tsconfigs"
 }
