@@ -1,6 +1,6 @@
 {
   "name": "@supportclass/tsconfig-nodecg-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Support Class' TypeScript configuration for client-side NodeCG code.",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://github.com/SupportClass/tsconfigs",
   "dependencies": {
-    "@supportclass/tsconfig-base": "^1.0.3"
+    "@supportclass/tsconfig-base": "^1.0.4"
   },
   "publishConfig": {
     "access": "public"

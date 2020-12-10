@@ -1,6 +1,6 @@
 {
   "name": "@supportclass/tsconfig-base",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Support Class' base TypeScript configuration.",
   "repository": {
     "type": "git",
