@@ -17,5 +17,8 @@
   "homepage": "https://github.com/SupportClass/tsconfigs",
   "dependencies": {
     "@supportclass/tsconfig-base": "^1.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

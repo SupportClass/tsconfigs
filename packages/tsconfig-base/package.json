@@ -13,5 +13,8 @@
   ],
   "author": "Support Class <info@supportclass.net>",
   "license": "MIT",
-  "homepage": "https://github.com/SupportClass/tsconfigs"
+  "homepage": "https://github.com/SupportClass/tsconfigs",
+  "publishConfig": {
+    "access": "public"
+  }
 }
